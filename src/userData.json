@@ -1,0 +1,22 @@
+[
+  {
+    "id": "123456",
+    "name": "John Doe",
+    "gender": "Male",
+    "avatar": "url",
+    "address": "New York",
+    "group": ["User", "Marketing"],
+    "state": "Active",
+    "feature": ["Create user", "Update user", "Delete user"]
+  },
+  {
+    "id": "890289",
+    "name": "Jane Doe",
+    "gender": "Female",
+    "avatar": "url",
+    "address": "Los Angeles",
+    "group": ["Admin"],
+    "state": "Inactive",
+    "feature": ["View map", "Edit map"]
+  }
+]
